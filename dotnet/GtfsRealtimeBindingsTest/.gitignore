@@ -1,2 +1,5 @@
-bin
-obj
+*.suo
+*.nupkg
+UpgradeLog.htm
+.vs
+.nuget

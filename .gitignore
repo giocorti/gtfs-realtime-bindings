@@ -1,1 +1,6 @@
+
 *~
+.DS_Store
+obj
+dotnet/GtfsRealtimeBindingsTest/bin/Debug/netcoreapp2.2/**/*.*
+!dotnet/GtfsRealtimeBindingsTest/bin/Debug/netcoreapp2.2/vehicle_position.pb
